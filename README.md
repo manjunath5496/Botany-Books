@@ -2,7 +2,7 @@
 
 <ul>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Botany-Books/blob/master/bny(1).pdf" style="text-decoration:none;">A TEXTBOOK OF Practical Botany II</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Botany-Books/blob/master/bny(2).pdf" style="text-decoration:none;">A Text Book of Practical Botany-1</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Botany-Books/blob/master/bny(2).pdf" style="text-decoration:none;">A Text Book of Practical Botany I</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Botany-Books/blob/master/bny(3).pdf" style="text-decoration:none;">Indian Herbal Remedies</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Botany-Books/blob/master/bny(4).pdf" style="text-decoration:none;">World Spice Plants - Economic Usage, Botany, Taxonomy </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Botany-Books/blob/master/bny(5).pdf" style="text-decoration:none;">Economic Botany </a></b></li>
